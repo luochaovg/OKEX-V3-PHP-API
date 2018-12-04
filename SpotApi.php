@@ -4,7 +4,7 @@
  *
  * @version 0.1
  * @api  https://www.okex.com/docs/zh/#futures-README
- * @authour luochao@iponycar.cn
+ * @authour luochao@iponycar.com
  */
 require 'Utils.php';
 
